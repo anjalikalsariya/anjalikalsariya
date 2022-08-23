@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anjalikalsariya
 - 👀 I’m interested in Javacripts/ReactJS/NodeJS/PHP projects
-- 🌱 I’m currently learning React Native/Fultter
 - 💞️ I’m looking to collaborate on long term projects
 - 📫 Reach me via linkdin and upwork
 
