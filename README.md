@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anjalikalsariya
-- 👀 I’m interested in Javacripts/ReactJS/NodeJS/PHP projects
+- 👀 I’m interested in Javacripts/ReactJS/NodeJS projects
 - 💞️ I’m looking to collaborate on long term projects
 - 📫 Reach me via linkdin and upwork
 
