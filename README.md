@@ -23,8 +23,7 @@ I'm  giving the best quality code and code which gives better performance and in
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="42" height="42"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="42" height="42"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="42" height="42"/>&nbsp;
- 
-</div>
+</div>&nbsp;
 
 
 📫How to reach me: 
