@@ -1,6 +1,4 @@
-👨‍💻 About Me
-
-🏆 Top rated plus freelancer | Senior developer | Highly recommended by clients 🏆
+🏆 Top rated plus freelancer in Upwork | Senior developer | Highly recommended by clients 🏆
 
 I’m Anjali, a full-stack web developer, and individual freelancer. 
 
@@ -14,9 +12,11 @@ I'm providing followings services
 - Refactoring code
 - Consulting  
 
-I giving the best quality code and code which gives better performance and increase productivity. I've successfully worked in the following roles: junior developer - senior developer - team leader - project manager.
+I'm  giving the best quality code and code which gives better performance and increase productivity. I've successfully worked in the following roles: junior developer - senior developer - team leader - project manager.
 
-📫How to reach me: https://www.linkedin.com/in/anjali-kalsariya-09394b12b/  https://www.upwork.com/freelancers/reactexpertanjalik
+📫How to reach me: 
+- https://www.linkedin.com/in/anjali-kalsariya-09394b12b/  
+- https://www.upwork.com/freelancers/reactexpertanjalik
 
 🛠️ Languages and Tools :
 <div>
