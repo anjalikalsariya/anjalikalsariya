@@ -2,7 +2,7 @@
 
 I’m Anjali, a full-stack web developer, and individual freelancer. 
 
-I'm providing followings services
+I'm providing following services
 
 - High-scale, productive, real-world-use web applications
 - Complex project developing
