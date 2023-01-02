@@ -14,10 +14,6 @@ I'm providing following services
 
 I'm  giving the best quality code and code which gives better performance and increase productivity. I've successfully worked in the following roles: junior developer - senior developer - team leader - project manager.
 
-📫How to reach me: 
-- https://www.linkedin.com/in/anjali-kalsariya-09394b12b/  
-- https://www.upwork.com/freelancers/reactexpertanjalik
-
 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="42" height="42"/>&nbsp;
@@ -29,3 +25,7 @@ I'm  giving the best quality code and code which gives better performance and in
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="42" height="42"/>&nbsp;
  
 </div>
+
+📫How to reach me: 
+- https://www.linkedin.com/in/anjali-kalsariya-09394b12b/  
+- https://www.upwork.com/freelancers/reactexpertanjalik
