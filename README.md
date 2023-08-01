@@ -1,8 +1,8 @@
 🏆 Top rated plus freelancer in Upwork | Senior developer | Highly recommended by clients 🏆
 
-I’m Anjali, a full-stack web developer, and individual freelancer. 
+I’m Anjali, a full-stack web developer, and freelancer service provider. 
 
-I'm providing following services
+I'm providing the following services
 
 - High-scale, productive, real-world-use web applications
 - Complex project developing
