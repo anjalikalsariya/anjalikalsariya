@@ -9,10 +9,11 @@ I'm providing the following services
 - Responsive web app
 - Progressive web app
 - Bug fixing
+- AWS
 - Refactoring code
 - Consulting  
 
-I'm  giving the best quality code and code which gives better performance and increase productivity. I've successfully worked in the following roles: junior developer - senior developer - team leader - project manager.
+I'm  giving the best quality code and code that gives better performance and increases productivity. I've successfully worked in the following roles: junior developer - senior developer - team leader - project manager.
 
 🛠️ Languages and Tools :
 <div>
