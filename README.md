@@ -13,7 +13,7 @@ I'm providing the following services
 - Refactoring code
 - Consulting  
 
-I'm  giving the best quality code and code that gives better performance and increases productivity. I've successfully worked in the following roles: junior developer - senior developer - team leader - project manager.
+I'm  giving the best quality code and code that gives better performance and increases productivity. I've successfully worked in the following roles: junior developer - senior developer - team leader.
 
 🛠️ Languages and Tools :
 <div>
