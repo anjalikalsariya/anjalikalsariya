@@ -30,14 +30,13 @@ https://www.upwork.com/freelancers/~01da63ed3d316c6ee0?p=2026989389964881920
 https://www.upwork.com/freelancers/~01da63ed3d316c6ee0?p=2026995379033829376
 https://www.upwork.com/freelancers/~01da63ed3d316c6ee0?p=2027000285835538432
 
-🛠️ Languages and Tools :
+🛠️ Tech stack :
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="42" height="42"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="42" height="42"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="42" height="42"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="42" height="42"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="Storybook" **alt="Storyblock" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="42" height="42"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="42" height="42"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="42" height="42"/>&nbsp;
 </div>&nbsp;
 
